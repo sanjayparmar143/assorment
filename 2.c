@@ -27,7 +27,7 @@ main(){
         larg2 = t;
     }
  
-    for (i = 2; i < n; i++){
+for (i = 2; i < n; i++){
     	
         if (a[i] > larg1){
         	
